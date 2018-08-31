@@ -1,5 +1,4 @@
-# mavo-locale-ru
-Русская локализация MAVO 
+# Русская локализация MAVO 
 
 ```CSS
 .mv-message.mv-warning::before {
