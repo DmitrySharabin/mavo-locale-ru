@@ -3,7 +3,8 @@
 
 ```CSS
 .mv-message.mv-warning::before {
-  content: "⚠️ Внимание: "; }
+  content: "⚠️ Внимание: ";
+}
 
 .mv-message.mv-error::before {
   content: "😳 Ой! ";
