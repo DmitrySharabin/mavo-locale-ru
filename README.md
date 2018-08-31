@@ -1,4 +1,4 @@
-# Русская локализация MAVO 
+# Русская локализация Mavo 
 
 Для использования плагина:
   1. Загрузите [файл локализации](https://github.com/sharabin/mavo-locale-ru/blob/master/mavo-locale-ru.js).
@@ -25,4 +25,4 @@ time[property][aria-label][mv-mode="edit"].mv-empty::before {
 }
 ```
 
-С более подробной информацией по локализации MAVO можно ознакомиться [здесь](https://mavo.io/docs/ui/#localization).
+С более подробной информацией по локализации Mavo можно ознакомиться [здесь](https://mavo.io/docs/ui/#localization).
