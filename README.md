@@ -24,3 +24,5 @@ time[property][aria-label][mv-mode="edit"].mv-empty::before {
   content: "(Нет " attr(aria-label) ")";
 }
 ```
+
+С более подробной информацией по локализации MAVO можно ознакомиться [здесь](https://mavo.io/docs/ui/#localization).
