@@ -9,6 +9,10 @@
   content: "😳 Ой! ";
 }
 
+.mv-message::before {
+    content: "Уведомление: ";
+}
+
 time[property][aria-label][mv-mode="edit"].mv-empty::before {
   content: "(Нет " attr(aria-label) ")";
 }
