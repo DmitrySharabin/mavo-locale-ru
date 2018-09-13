@@ -10,7 +10,7 @@ Mavo.Locale.register("ru", {
 	"loading": "Загрузка",
 	"uploading": "Отправка",
 	"saving": "Сохранение",
-	"dismiss": "Отклонить",
+	"dismiss": "Закрыть",
 	"logged-in-as": "Осуществлен вход в {id} как ",
 	"login-to": "Авторизоваться в {id}",
 	"error-uploading": "Ошибка сохранения файла",
