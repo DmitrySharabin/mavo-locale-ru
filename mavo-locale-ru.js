@@ -22,7 +22,7 @@ Mavo.Locale.register("ru", {
 	"logout": "Выйти",
 	"login": "Вход",
 	"loading": "Загрузка",
-	"uploading": "Отправка",
+	"uploading": "Загрузка",
 	"saving": "Сохранение",
 	"dismiss": "Закрыть",
 	"logged-in-as": "Осуществлен вход в {id} как ",
