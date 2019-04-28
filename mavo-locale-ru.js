@@ -14,7 +14,7 @@ Mavo.Locale.register("ru", {
 	"year": "год",
 	"years": "гг.",
   	"edit": "Редактировать",
-	"editing": "Правка",
+	"editing": "Редактирование",
 	"save": "Сохранить",
   	"clear": "Очистить",
 	"import": "Загрузить",
