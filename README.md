@@ -9,7 +9,7 @@
 
 **P. S.** Дополнительно нужно переопределить следующие правила из `mavo.css`:
 
-```CSS
+```css
 .mv-message.mv-warning::before {
   content: "⚠️ Внимание: ";
 }
